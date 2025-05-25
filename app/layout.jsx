@@ -20,7 +20,7 @@ const RootLayout = ({children}) => {
             </main>
         </body>
     </html>
-  )
+  ) 
 }
 
 export default RootLayout;
